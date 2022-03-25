@@ -12,13 +12,13 @@ module.exports = {
   author: 'Benjamin Pareja',
 
   // open graph metadata (optional)
-  description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
-  socialImageSubtitle: 'Hello World! 👋',
+  description: 'Sitio web personal de Benjamin Pareja',
+  socialImageTitle: 'Benjamin Pareja',
+  socialImageSubtitle: 'MetaBen 👋',
 
   // social usernames (optional)
-  twitter: 'me7aben',
-  github: 'me7aben',
+  twitter: 'benjatous2',
+  github: '',
   linkedin: 'me7aben',
 
   // default notion icon and cover images for site-wide consistency (optional)
